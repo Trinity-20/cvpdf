@@ -1,0 +1,29 @@
+{
+    "nombre_completo": "Juan Pérez",
+    "contacto": "Teléfono: +123456789, Correo: juanperez@email.com",
+    "perfil": "Profesional con más de 5 años de experiencia en desarrollo de software.",
+    "experiencias": [
+        {
+            "Puesto": "Desarrollador Senior",
+            "Empresa": "Tech Solutions",
+            "Periodo": "2020 - Actualidad",
+            "Descripción": "Desarrollo de aplicaciones web robustas.",
+            "Actividades": ["Desarrollo Front-End", "Pruebas automatizadas", "Implementación de APIs"],
+            "Logros": ["Optimización del rendimiento en un 30%", "Mejora en el diseño de la arquitectura"]
+        }
+    ],
+    "formaciones": [
+        {
+            "Institución": "Universidad Nacional",
+            "Periodo": "2015 - 2020"
+        }
+    ],
+    "cursos": [
+        {
+            "Nombre del Curso": "Machine Learning",
+            "Fecha": "2023"
+        }
+    ],
+    "habilidades": ["Python", "JavaScript", "Django", "React"],
+    "idiomas": ["Español", "Inglés"]
+}
