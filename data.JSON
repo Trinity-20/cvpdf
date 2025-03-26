@@ -1,29 +1,39 @@
 {
-    "nombre_completo": "Juan Pérez",
-    "contacto": "Teléfono: +123456789, Correo: juanperez@email.com",
-    "perfil": "Profesional con más de 5 años de experiencia en desarrollo de software.",
-    "experiencias": [
-        {
-            "Puesto": "Desarrollador Senior",
-            "Empresa": "Tech Solutions",
-            "Periodo": "2020 - Actualidad",
-            "Descripción": "Desarrollo de aplicaciones web robustas.",
-            "Actividades": ["Desarrollo Front-End", "Pruebas automatizadas", "Implementación de APIs"],
-            "Logros": ["Optimización del rendimiento en un 30%", "Mejora en el diseño de la arquitectura"]
-        }
+    "nombre_completo": "JORGE RAMOS",
+    "contacto": "Jr. Cuba 280, Dpto. 115 • Jesús María, Lima • Jorge.ramos@gmail.com • (+51) 998302445",
+    "educacion": [
+      {
+        "titulo": "Bachiller en Administración",
+        "institucion": "PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ",
+        "fecha":                                     "                           Mayo, 2008"
+      }
     ],
-    "formaciones": [
-        {
-            "Institución": "Universidad Nacional",
-            "Periodo": "2015 - 2020"
-        }
+    "experiencia": [
+      {
+        "titulo": "Asistente Administrativo",
+        "institucion": "BACKUS",
+        "fecha": "       Septiembre 2011 – Hoy",
+        "descripcion": [
+          "Programé y coordiné reuniones, citas y arreglos de viaje para supervisores y gerentes.",
+          "Capacité a 2 asistentes administrativos durante el período de expansión de la compañía para asegurar la atención al detalle y el cumplimiento de la política de la compañía.",
+          "Mejoré prácticas de contratación, ahorrando a la compañía $3,000 por año en gastos laborales.",
+          "Administré informes de viajes y gastos para los miembros del departamento."
+        ]
+      },
+      {
+        "titulo": "Asistente",
+        "institucion": "TELEFÓNICA DEL PERÚ",
+        "fecha": "     Junio 2008 – Agosto 2015",
+        "descripcion": [
+          "Preparé 3 informes semanales para la administración.",
+          "Procesé, ordené y distribuí un promedio de 300 mensajes semanales y 40 documentos de correspondencia.",
+          "Registré y distribuí 03 actas de reuniones semanal."
+        ]
+      }
     ],
-    "cursos": [
-        {
-            "Nombre del Curso": "Machine Learning",
-            "Fecha": "2023"
-        }
-    ],
-    "habilidades": ["Python", "JavaScript", "Django", "React"],
-    "idiomas": ["Español", "Inglés"]
-}
+    "idiomas": [
+      "Experto en Microsoft Office",
+      "Autodidacta en conocimiento de tecnología web",
+      "Bilingüe en español e inglés"
+    ]
+  }
