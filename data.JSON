@@ -5,14 +5,14 @@
       {
         "titulo": "Bachiller en Administración",
         "institucion": "PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ",
-        "fecha":                                     "                           Mayo, 2008"
+        "fecha":"Mayo, 2008"
       }
     ],
     "experiencia": [
       {
         "titulo": "Asistente Administrativo",
         "institucion": "BACKUS",
-        "fecha": "       Septiembre 2011 – Hoy",
+        "fecha": "Septiembre 2011 – Hoy",
         "descripcion": [
           "Programé y coordiné reuniones, citas y arreglos de viaje para supervisores y gerentes.",
           "Capacité a 2 asistentes administrativos durante el período de expansión de la compañía para asegurar la atención al detalle y el cumplimiento de la política de la compañía.",
@@ -23,7 +23,7 @@
       {
         "titulo": "Asistente",
         "institucion": "TELEFÓNICA DEL PERÚ",
-        "fecha": "     Junio 2008 – Agosto 2015",
+        "fecha": "Junio 2008 – Agosto 2015",
         "descripcion": [
           "Preparé 3 informes semanales para la administración.",
           "Procesé, ordené y distribuí un promedio de 300 mensajes semanales y 40 documentos de correspondencia.",
